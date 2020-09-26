@@ -1,0 +1,13 @@
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\bin\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).exe
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\bin\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).deps.json
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\bin\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).runtimeconfig.json
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\bin\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).runtimeconfig.dev.json
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\bin\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).dll
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\bin\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).pdb
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\obj\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).csprojAssemblyReference.cache
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\obj\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).AssemblyInfoInputs.cache
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\obj\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).AssemblyInfo.cs
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\obj\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).csproj.CoreCompileInputs.cache
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\obj\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).dll
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\obj\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).pdb
+C:\Users\tayya\source\repos\OpenCloudPrinciple(OCP)\OpenCloudPrinciple(OCP)\obj\Debug\netcoreapp3.1\OpenCloudPrinciple(OCP).genruntimeconfig.cache
